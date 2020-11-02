@@ -1,4 +1,22 @@
-##
+# Real-time Music Accompaniment System based on Tempo Models
+
+This page contains datasets for article "Real-time Music Accompaniment System based on Tempo Model" submitted to ____________.
+
+Authors:    , Pedro Vera-Candeas,  
+
+
+### Data sets for optimization
+
+### Datasets for evaluation
+
+### Datasets for subjective evaluation of admissible misalingment 
+
+**The  Entertainer(S.Joplin)**
+[link to Google!](http://google.com)
+
+
+
+**Trio  for  piano,  violin  &  cello  in  E  major  K542,second  movement  (W.  A.  Mozart)**
 
 
 
