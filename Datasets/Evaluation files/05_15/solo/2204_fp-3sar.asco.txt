@@ -1,0 +1,450 @@
+﻿; Antescofo score generated using native importer version 0.1.44
+; Copyright (c) IRCAM 2015
+; Designed by Robert Piéchaud
+
+; Original file: 2204_fp-3sar.mid
+; MIDI file type 1 (multiple tracks)
+; Converted to Antescofo on Wed May 16 12:58:31 2018
+
+; start
+
+; ----------- measure 1 --- beat 0 --- time signature 3/4
+
+BPM 70
+NOTE A4 1/2 measure1
+NOTE B4 1/2
+NOTE C5 1/2
+NOTE E5 1/2
+NOTE G#4 1/2
+NOTE A4 1/2
+
+; ----------- measure 2 --- beat 3 --- time signature 3/4
+
+NOTE F4 2 measure2
+NOTE E4 1/2
+NOTE F#4 1/2
+
+; ----------- measure 3 --- beat 6 --- time signature 3/4
+
+NOTE G#4 1/2 measure3
+NOTE A4 1/2
+NOTE B4 1/2
+NOTE D5 1/2
+NOTE F5 1/2
+NOTE E5 1/2
+
+; ----------- measure 4 --- beat 9 --- time signature 3/4
+
+NOTE D5 1/2 measure4
+NOTE B4 1/2
+NOTE C5 1/2
+NOTE A4 1/2
+NOTE B4 1
+
+; ----------- measure 5 --- beat 12 --- time signature 3/4
+
+NOTE A4 1/2 measure5
+NOTE B4 1/2
+NOTE C5 1/2
+NOTE E5 1/2
+NOTE G#4 1/2
+NOTE A4 1/2
+
+; ----------- measure 6 --- beat 15 --- time signature 3/4
+
+NOTE F5 1 measure6
+NOTE E5 1
+NOTE D5 1
+
+; ----------- measure 7 --- beat 18 --- time signature 3/4
+
+NOTE G4 1/2 measure7
+NOTE A4 1/2
+NOTE B4 1/2
+NOTE D5 1/2
+NOTE F#4 1/2
+NOTE G4 1/2
+
+; ----------- measure 8 --- beat 21 --- time signature 3/4
+
+NOTE E5 1 measure8
+NOTE D5 1
+NOTE C5 1/2
+NOTE E5 1/2
+
+; ----------- measure 9 --- beat 24 --- time signature 3/4
+
+NOTE G5 1/2 measure9
+NOTE E5 1/2
+NOTE D5 1/2
+NOTE C5 1/2
+NOTE B4 1/2
+NOTE C5 1/2
+
+; ----------- measure 10 --- beat 27 --- time signature 3/4
+
+NOTE G4 3/2 measure10
+NOTE A4 1/4
+NOTE B4 1/4
+NOTE C5 1/4
+NOTE D5 1/4
+NOTE E5 1/4
+NOTE F5 1/4
+
+; ----------- measure 11 --- beat 30 --- time signature 3/4
+
+NOTE G5 1/4 measure11
+NOTE F5 1/4
+NOTE E5 1/4
+NOTE G5 1/4
+NOTE F5 1/4
+NOTE E5 1/4
+NOTE D5 1/4
+NOTE F5 1/4
+NOTE E5 1/4
+NOTE D5 1/4
+NOTE C5 1/4
+NOTE E5 1/4
+
+; ----------- measure 12 --- beat 33 --- time signature 3/4
+
+NOTE A4 3/2 measure12
+NOTE B4 1/4
+NOTE C5 1/4
+NOTE D5 1/4
+NOTE E5 1/4
+NOTE F5 1/4
+NOTE G5 1/4
+
+; ----------- measure 13 --- beat 36 --- time signature 3/4
+
+NOTE A5 1/4 measure13
+NOTE G5 1/4
+NOTE F5 1/4
+NOTE A5 1/4
+NOTE G5 1/4
+NOTE F5 1/4
+NOTE E5 1/4
+NOTE G5 1/4
+NOTE F5 1/4
+NOTE E5 1/4
+NOTE D5 1/4
+NOTE F5 1/4
+
+; ----------- measure 14 --- beat 39 --- time signature 3/4
+
+NOTE B5 1/2 measure14
+NOTE C6 1/4
+NOTE D6 1/4
+NOTE C6 1/4
+NOTE B5 1/4
+NOTE A5 1/4
+NOTE G5 1/4
+NOTE F5 1/4
+NOTE E5 1/4
+NOTE F5 1/4
+NOTE B4 1/4
+
+; ----------- measure 15 --- beat 42 --- time signature 3/4
+
+NOTE E5 1/2 measure15
+NOTE D5 1/4
+NOTE C5 1/4
+NOTE G5 1/2
+NOTE A5 1/2
+NOTE E5 1/2
+NOTE D5 1/4
+NOTE C5 1/4
+
+; ----------- measure 16 --- beat 45 --- time signature 3/4
+
+NOTE C5 2 measure16
+NOTE 0 1
+
+; ----------- measure 17 --- beat 48 --- time signature 3/4
+
+NOTE E5 1/2 measure17
+NOTE C5 1/2
+NOTE B4 1/2
+NOTE C5 1/2
+NOTE A5 1/2
+NOTE G5 1/2
+
+; ----------- measure 18 --- beat 51 --- time signature 3/4
+
+NOTE E5 2 measure18
+NOTE D5 1/2
+NOTE E5 1/2
+
+; ----------- measure 19 --- beat 54 --- time signature 3/4
+
+NOTE F5 1/2 measure19
+NOTE D5 1/2
+NOTE G#4 1/2
+NOTE E5 1/2
+NOTE B5 1/2
+NOTE D5 1/2
+
+; ----------- measure 20 --- beat 57 --- time signature 3/4
+
+NOTE C5 1 measure20
+NOTE B4 1/2
+NOTE C5 1/2
+NOTE A4 1
+
+; ----------- measure 21 --- beat 60 --- time signature 3/4
+
+NOTE A5 1/2 measure21
+NOTE G5 1/4
+NOTE F5 1/4
+NOTE E5 1/2
+NOTE D5 1/2
+NOTE C#5 1/2
+NOTE D5 1/2
+
+; ----------- measure 22 --- beat 63 --- time signature 3/4
+
+NOTE A#5 1/2 measure22
+NOTE A5 1/4
+NOTE G5 1/4
+NOTE F5 1/2
+NOTE E5 1/2
+NOTE A5 1/2
+NOTE A4 1/2
+
+; ----------- measure 23 --- beat 66 --- time signature 3/4
+
+NOTE F4 1/4 measure23
+NOTE A5 1/4
+NOTE G5 1/4
+NOTE F5 1/4
+NOTE E5 1/2
+NOTE D5 1/2
+NOTE C#5 1/2
+NOTE D5 1/2
+
+; ----------- measure 24 --- beat 69 --- time signature 3/4
+
+NOTE G4 1/2 measure24
+NOTE A#5 1/4
+NOTE A5 1/4
+NOTE G5 1/2
+NOTE F5 1/4
+NOTE E5 1/4
+NOTE C#6 1/2
+NOTE B5 1/4
+NOTE C#6 1/4
+
+; ----------- measure 25 --- beat 72 --- time signature 3/4
+
+NOTE D6 1/2 measure25
+NOTE D5 1/4
+NOTE E5 1/4
+NOTE F5 1/2
+NOTE A5 1/2
+NOTE G5 1/4
+NOTE F5 1/4
+NOTE E5 1/4
+NOTE F5 1/4
+
+; ----------- measure 26 --- beat 75 --- time signature 3/4
+
+NOTE D5 1/2 measure26
+NOTE A4 1/2
+NOTE F4 1/2
+NOTE D4 1/2
+NOTE F4 1/2
+NOTE A4 1/2
+
+; ----------- measure 27 --- beat 78 --- time signature 3/4
+
+NOTE B4 1/2 measure27
+NOTE C5 1/2
+NOTE D5 1/2
+NOTE F5 1/2
+NOTE A5 1/2
+NOTE G5 1/2
+
+; ----------- measure 28 --- beat 81 --- time signature 3/4
+
+NOTE F5 1/2 measure28
+NOTE E5 1/2
+NOTE D5 1/2
+NOTE C5 1/2
+NOTE G#5 1/2
+NOTE A5 1/2
+
+; ----------- measure 29 --- beat 84 --- time signature 3/4
+
+NOTE G#4 1/2 measure29
+NOTE A4 1/2
+NOTE B4 1/2
+NOTE C5 1/2
+NOTE F5 1/2
+NOTE E5 1/2
+
+; ----------- measure 30 --- beat 87 --- time signature 3/4
+
+NOTE D5 1/2 measure30
+NOTE C5 1/2
+NOTE B4 1/2
+NOTE A4 1/2
+NOTE A5 1/2
+NOTE C6 1/2
+
+; ----------- measure 31 --- beat 90 --- time signature 3/4
+
+NOTE D5 1/2 measure31
+NOTE C6 1/2
+NOTE B5 1/2
+NOTE D6 1/2
+NOTE G#5 1/2
+NOTE A5 1/2
+
+; ----------- measure 32 --- beat 93 --- time signature 3/4
+
+NOTE D5 1/2 measure32
+NOTE C6 1/2
+NOTE B5 1/2
+NOTE D6 1/2
+NOTE G#5 1/2
+NOTE A5 1/2
+
+; ----------- measure 33 --- beat 96 --- time signature 3/4
+
+NOTE B4 1/2 measure33
+NOTE F5 1/4
+NOTE E5 1/4
+NOTE D5 1/2
+NOTE C5 1/2
+NOTE B4 1/2
+NOTE C5 1/4
+NOTE D5 1/4
+
+; ----------- measure 34 --- beat 99 --- time signature 3/4
+
+NOTE G#4 3/2 measure34
+NOTE F#4 1/2
+NOTE E4 1
+
+; ----------- measure 35 --- beat 102 --- time signature 3/4
+
+NOTE A4 1/2 measure35
+NOTE B4 1/2
+NOTE C5 1/2
+NOTE E5 1/2
+NOTE G#4 1/2
+NOTE A4 1/2
+
+; ----------- measure 36 --- beat 105 --- time signature 3/4
+
+NOTE F5 1 measure36
+NOTE E5 1
+NOTE D5 1
+
+; ----------- measure 37 --- beat 108 --- time signature 3/4
+
+NOTE B4 1/2 measure37
+NOTE C5 1/2
+NOTE D5 1/2
+NOTE F5 1/2
+NOTE E5 1/2
+NOTE D5 1/2
+
+; ----------- measure 38 --- beat 111 --- time signature 3/4
+
+NOTE B5 1/2 measure38
+NOTE G#5 1/2
+NOTE A5 1/2
+NOTE F#5 1/2
+NOTE G#5 1/2
+NOTE B5 1/2
+
+; ----------- measure 39 --- beat 114 --- time signature 3/4
+
+NOTE E6 1/2 measure39
+NOTE C6 1/2
+NOTE B5 1/2
+NOTE A5 1/2
+NOTE G#5 1/2
+NOTE A5 1/2
+
+; ----------- measure 40 --- beat 117 --- time signature 3/4
+
+NOTE E5 3/2 measure40
+NOTE F#5 1/4
+NOTE G#5 1/4
+NOTE A5 1/4
+NOTE B5 1/4
+NOTE C6 1/4
+NOTE D6 1/4
+
+; ----------- measure 41 --- beat 120 --- time signature 3/4
+
+NOTE E6 1/4 measure41
+NOTE D6 1/4
+NOTE C6 1/4
+NOTE E6 1/4
+NOTE D6 1/4
+NOTE C6 1/4
+NOTE B5 1/4
+NOTE D6 1/4
+NOTE C6 1/4
+NOTE B5 1/4
+NOTE A5 1/4
+NOTE C6 1/4
+
+; ----------- measure 42 --- beat 123 --- time signature 3/4
+
+NOTE F#5 3/2 measure42
+NOTE G#5 1/4
+NOTE A5 1/4
+NOTE B5 1/4
+NOTE C6 1/4
+NOTE D6 1/4
+NOTE E6 1/4
+
+; ----------- measure 43 --- beat 126 --- time signature 3/4
+
+NOTE F6 1/4 measure43
+NOTE E6 1/4
+NOTE D6 1/4
+NOTE F6 1/4
+NOTE E6 1/4
+NOTE D6 1/4
+NOTE C6 1/4
+NOTE E6 1/4
+NOTE D6 1/4
+NOTE C6 1/4
+NOTE B5 1/4
+NOTE D6 1/4
+
+; ----------- measure 44 --- beat 129 --- time signature 3/4
+
+NOTE G#6 1/2 measure44
+NOTE A5 1/4
+NOTE B5 1/4
+NOTE A5 1/4
+NOTE G5 1/4
+NOTE F#5 1/4
+NOTE E5 1/4
+NOTE D6 1/4
+NOTE C6 1/4
+NOTE D6 1/4
+NOTE B5 1/4
+
+; ----------- measure 45 --- beat 132 --- time signature 3/4
+
+NOTE C6 1/4 measure45
+NOTE B5 1/4
+NOTE A5 1/4
+NOTE G#5 1/4
+NOTE A5 1/2
+NOTE E5 1/2
+NOTE C5 1/2
+NOTE B4 1/4
+NOTE A4 1/4
+
+; ----------- measure 46 --- beat 135 --- time signature 3/4
+
+NOTE A4 3 measure46
