@@ -22,8 +22,8 @@ Evaluation files are separated in function of tempo deviation, from 0% to 5%, fr
 
 ### Datasets for subjective evaluation of admissible misalingment 
 
-- *The Entertainer (S.Joplin)
-- *Trio for piano, violin & cello in E major K542, second movement (W. A. Mozart)
+- *The Entertainer (S.Joplin)*
+- *Trio for piano, violin & cello in E major K542, second movement (W. A. Mozart)*
 
 Both scores are artificially modified, misaligning the notes of one of the instruments with four different values of delay: 0 to 50 ms, 50 to 100 ms, 100 to 150 ms and 150 to 200 ms, produced throw continuous uniform distribution. 
 
