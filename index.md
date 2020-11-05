@@ -10,7 +10,7 @@ This work presents a methodology based on spectral factorization and online dyna
 
 ### Data sets for optimization
 
-Three pieces from the classical music database MusicNet are selected. MusicNet consists of classical music recordings with their corresponding ground-truth data and the MIDI repre- sentation of the scores, resulting in a wide variety of music performances under various studio and microphone conditions.
+Three pieces from the classical music database MusicNet are selected. MusicNet consists of classical music recordings with their corresponding ground-truth data and the MIDI representation of the scores, resulting in a wide variety of music performances under various studio and microphone conditions.
 
 ### Datasets for evaluation
 
