@@ -1,6 +1,6 @@
-# Real-time Music Accompaniment System based on Tempo Models
+# Probabilistic tempo model for audio to score alignment
 
-This page contains datasets for article "Real-time Music Accompaniment System based on Tempo Model" submitted to ____________.
+This page contains datasets for article "Probabilistic tempo model for audio to score alignment" submitted to ____________.
 
 Authors:    , F.-J. Bris-Peñalver,  
 
